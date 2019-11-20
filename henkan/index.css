@@ -1,0 +1,30 @@
+#container {
+    text-align: center;
+}
+
+body {
+    background-color: #efefef;
+}
+
+
+#btn {
+    cursor: pointer;
+    background: #d0d0d0;
+    /* color: white; */
+    /* width: 20%; */
+    height: 2em;
+    border-radius: 3px;
+}
+
+#btn:hover {
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 600px) {
+    textarea {
+        padding: 1em;
+        width: 90%;
+        height: 15em;
+        box-sizing: border-box;
+    }
+}
