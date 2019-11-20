@@ -6,18 +6,22 @@ body {
     background-color: #efefef;
 }
 
-
 #btn {
     cursor: pointer;
-    background: #d0d0d0;
+    background: #e0e0e0;
     /* color: white; */
     /* width: 20%; */
-    height: 2em;
+    /* height: 2em; */
     border-radius: 3px;
+    padding: 10px 30px;
 }
 
 #btn:hover {
     opacity: 0.8;
+}
+
+#btn-p {
+    padding: 20px;
 }
 
 @media screen and (max-width: 600px) {
