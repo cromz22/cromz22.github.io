@@ -1,15 +1,7 @@
-/* [class*="col"] {
-    padding: 1rem;
-    background-color: #33b5e5;
-    border: 1px solid #fff;
-    color: #fff;
-    text-align: center;
+a {
+    text-decoration: none;
 }
 
-[class*="con"] {
-    padding: 1rem;
-    background-color: #9e33e5;
-    border: 1px solid #fff;
-    color: #fff;
-    text-align: center;
-} */
+p {
+    font-size: large;
+}
