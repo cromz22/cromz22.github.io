@@ -5,3 +5,11 @@ a {
 p {
   font-size: large;
 }
+
+section[id]:before {
+  display: block;
+  height: 56px;
+  margin-top: -56px;
+  visibility: hidden;
+  content: "";
+}
