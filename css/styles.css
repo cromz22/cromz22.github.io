@@ -13,3 +13,9 @@ section[id]:before {
   visibility: hidden;
   content: "";
 }
+
+#biography > div > ul > li {
+  display: inline-block;
+  list-style: none;
+  margin: 0 2em;
+}
