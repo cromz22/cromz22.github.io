@@ -1,3 +1,9 @@
 site_name: Shuichiro Shimizu
 theme:
   name: material
+nav:
+    - Home: index.md
+    - Education: education.md
+    - Publications: publications.md
+    - Experiences: experiences.md
+    - Awards: awards.md
