@@ -1,13 +1,12 @@
-## Publications
 
-### Journal
+## Journal
 
 - <u>Shuichiro Shimizu</u>, Chenhui Chu, Sheng Li, and Sadao Kurohashi.
   **Cross-Lingual Transfer Learning for End-to-End Speech Translation**.
   In _自然言語処理 (Journal of Natural Language Processing)_, Vol.29, No.2, 2022.
     - [PDF](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_611/_pdf/-char/ja)
 
-### International Conference
+## International Conference
 
 - Yihang Li, <u>Shuichiro Shimizu</u>, Chenhui Chu, Sadao Kurohashi, and Wei Li.
   **Video-Helpful Multimodal Machine Translation**.
@@ -46,7 +45,7 @@
     - [arXiv](https://arxiv.org/abs/2201.08054)
     - [GitHub](https://github.com/ku-nlp/VISA)
 
-### Domestic Conference (non peer-reviewed)
+## Domestic Conference (non peer-reviewed)
 
 - <u>Shuichiro Shimizu</u>, Yin Jou Huang, Yugo Murawaki, and Chenhui Chu.
   **対話の齟齬と介入による解消：LLMを用いた検討**.
@@ -77,7 +76,7 @@
   In _言語処理学会 第27回年次大会 発表論文集 (Proceedings of the 27th Annual Meeting of the Association for Natural Language Processing)_, 2021.
     - [PDF](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/A8-4.pdf)
 
-### Others
+## Others
 
 - (Contribution to work) Ryoichi Shinkuma, Satoshi Nishida, Masataka Kado, Naoya Maeda, and Shinji Nishimoto.
   **Relational network of people constructed on the basis of similarity of brain activities**.

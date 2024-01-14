@@ -1,6 +1,5 @@
-## Experiences
 
-### Research
+## Research
 
 - **JSPS Overseas Challenge Program for Young Researchers** (Apr. 2024 - Dec. 2024)
 
@@ -22,7 +21,7 @@
 
     [Oki lab](http://icn.cce.i.kyoto-u.ac.jp/) (Department of Communications and Computer Engineering, Graduate School of Informatics, Kyoto University) is a laboratory working on networking technologies. I helped develop a system to construct a relational network of people based on their brain activities. Please refer to [the publication](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8792189) for more details.
 
-### Teaching
+## Teaching
 
 - Teaching assistant, [Open course of artificial intelligence](https://www.kyoto-u.ac.jp/ja/event/2023-04-28), Kyoto University, Sep. 2023
 - Teaching assistant, Programming and exercises in electrical and electronic engineering, Kyoto University (Apr. 2022 - Aug. 2022)
@@ -30,7 +29,7 @@
 - Private tutor for a high school student in mathematics, physics, chemistry, and English (Nov. 2018 - Mar. 2020)
 - Private school teacher for elementary, junior high, and high school students in mathematics and English (Feb. 2018 - Mar. 2019)
 
-### Others
+## Others
 
 - Exchange student tutor, Kyoto University (Oct. 2021 - Mar. 2022)
 - Exchange student tutor, Kyoto University (Apr. 2021 - Sep. 2021)
