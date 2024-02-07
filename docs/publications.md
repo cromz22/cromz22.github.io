@@ -57,11 +57,11 @@
 
 - <u>Shuichiro Shimizu</u>, Yin Jou Huang, Yugo Murawaki, and Chenhui Chu.
   **対話の齟齬と介入による解消：LLMを用いた検討**.
-  In _言語処理学会 第30回年次大会 発表論文集 (Proceedings of the 30th Annual Meeting of the Association for Natural Language Processing)_, 2023.
+  In _言語処理学会 第30回年次大会 発表論文集 (Proceedings of the 30th Annual Meeting of the Association for Natural Language Processing)_, 2024.
 
 - Hao Wang, Shuhei Kurita, <u>Shuichiro Shimizu</u>, and Daisuke Kawahara.
   **SlideAVSR: 視聴覚音声認識のための論文解説動画データセット**.
-  In _言語処理学会 第30回年次大会 発表論文集 (Proceedings of the 30th Annual Meeting of the Association for Natural Language Processing)_, 2023.
+  In _言語処理学会 第30回年次大会 発表論文集 (Proceedings of the 30th Annual Meeting of the Association for Natural Language Processing)_, 2024.
 
 
 - <u>Shuichiro Shimizu</u>, Chenhui Chu, Sheng Li, and Sadao Kurohashi.
