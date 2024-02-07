@@ -45,6 +45,14 @@
     - [arXiv](https://arxiv.org/abs/2201.08054)
     - [GitHub](https://github.com/ku-nlp/VISA)
 
+
+## Preprints
+
+- Hao Wang, Shuhei Kurita, <u>Shuichiro Shimizu</u>, and Daisuke Kawahara.
+  **SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition**.
+  _arXiv:2401.09759_, 2024.
+    - [arXiv](https://arxiv.org/abs/2401.09759)
+
 ## Domestic Conference (non peer-reviewed)
 
 - <u>Shuichiro Shimizu</u>, Yin Jou Huang, Yugo Murawaki, and Chenhui Chu.
