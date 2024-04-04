@@ -56,12 +56,15 @@
 ## Domestic Conference (non peer-reviewed)
 
 - <u>Shuichiro Shimizu</u>, Yin Jou Huang, Yugo Murawaki, and Chenhui Chu.
-  **対話の齟齬と介入による解消：LLMを用いた検討**.
+  **対話の齟齬と介入による解消：LLMを用いた検討 (Discrepancies in Dialogue and
+Resolution through Intervention: An Examination using LLM)**.
   In _言語処理学会 第30回年次大会 発表論文集 (Proceedings of the 30th Annual Meeting of the Association for Natural Language Processing)_, 2024.
+    - [PDF (Ja)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P5-28.pdf)
 
 - Hao Wang, Shuhei Kurita, <u>Shuichiro Shimizu</u>, and Daisuke Kawahara.
-  **SlideAVSR: 視聴覚音声認識のための論文解説動画データセット**.
+  **SlideAVSR: 視聴覚音声認識のための論文解説動画データセット (SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition)**.
   In _言語処理学会 第30回年次大会 発表論文集 (Proceedings of the 30th Annual Meeting of the Association for Natural Language Processing)_, 2024.
+      - [PDF (Ja)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B5-3.pdf)
 
 
 - <u>Shuichiro Shimizu</u>, Chenhui Chu, Sheng Li, and Sadao Kurohashi.

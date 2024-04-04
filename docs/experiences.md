@@ -3,7 +3,7 @@
 
 - **JSPS Overseas Challenge Program for Young Researchers** (Apr. 2024 - Dec. 2024)
 
-    [JSPS](https://www.jsps.go.jp/english/index.html) (Japan Society for Promotion of Science) is a governmental independent administrative agency that provides fellowships for Japanese scientists. I'll work on a research about speech language models.
+    [JSPS](https://www.jsps.go.jp/english/index.html) (Japan Society for Promotion of Science) is a governmental independent administrative agency that provides fellowships for Japanese scientists. I'm working on a research about speech language models.
 
 - **JSPS Research Fellowship for Young Scientists (DC1)** (Apr. 2023 - Mar. 2026)
 
