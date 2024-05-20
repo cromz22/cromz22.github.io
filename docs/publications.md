@@ -8,6 +8,10 @@
 
 ## International Conference
 
+- Sirou Chen, Sakiko Yahata, Shuichiro Shimizu, Zhengdong Yang, Yihang Li, Chenhui Chu, and Sadao Kurohashi.
+  **MELD-ST: An Emotion-aware Speech Translation Dataset**.
+  In _Findings of the Association for Computational Linguistics: ACL 2024_, 2024.
+
 - Yihang Li, <u>Shuichiro Shimizu</u>, Chenhui Chu, Sadao Kurohashi, and Wei Li.
   **Video-Helpful Multimodal Machine Translation**.
   In _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)_, 2023.

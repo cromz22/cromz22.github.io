@@ -20,7 +20,9 @@ I'm currently a visiting scholar at [WAV lab](https://www.wavlab.org/), Carnegie
 
 ## News
 
-- Submitted two papers to NLP 2024 (Kobe, Japan, Mar. 2024).
+- A paper was accepted to ACL 2024 Findings (Bangkok, Thailand, Aug. 2024).
+
+- Presented two papers at NLP 2024 (Kobe, Japan, Mar. 2024).
 
 - A research proposal was accepted to JSPS Overseas Challenge Program for Young Researchers. I'm studying at CMU [WAV Lab](https://www.wavlab.org/) from Apr. 2024 - Dec. 2024.
 
