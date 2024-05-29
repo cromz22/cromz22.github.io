@@ -8,9 +8,11 @@
 
 ## International Conference
 
-- Sirou Chen, Sakiko Yahata, Shuichiro Shimizu, Zhengdong Yang, Yihang Li, Chenhui Chu, and Sadao Kurohashi.
+- Sirou Chen, Sakiko Yahata, <u>Shuichiro Shimizu</u>, Zhengdong Yang, Yihang Li, Chenhui Chu, and Sadao Kurohashi.
   **MELD-ST: An Emotion-aware Speech Translation Dataset**.
   In _Findings of the Association for Computational Linguistics: ACL 2024_, 2024.
+    - [arXiv](https://arxiv.org/abs/2405.13233)
+    - [Hugging Face](https://huggingface.co/datasets/ku-nlp/MELD-ST)
 
 - Yihang Li, <u>Shuichiro Shimizu</u>, Chenhui Chu, Sadao Kurohashi, and Wei Li.
   **Video-Helpful Multimodal Machine Translation**.
@@ -33,6 +35,7 @@
     - [Poster](https://lotus.kuee.kyoto-u.ac.jp/~sshimizu/paper/acl2023_poster_shimizu_v3.pdf)
     - [arXiv](https://arxiv.org/abs/2305.09210)
     - [GitHub](https://github.com/ku-nlp/speechBSD)
+    - [Hugging Face](https://huggingface.co/datasets/ku-nlp/speech-bsd-hf)
 
 - Iglika Nikolova-Stoupak, <u>Shuichiro Shimizu</u>, Chenhui Chu, and Sadao Kurohashi.
   **Filtering of Noisy Web-Crawled Parallel Corpus: the Japanese-Bulgarian Language Pair**.
