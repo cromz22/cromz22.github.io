@@ -1,12 +1,21 @@
 
 ## Journal
 
+- Zhengdong Yang, <u>Shuichiro Shimizu</u>, Chenhui Chu, Sheng Li, and Sadao Kurohashi.
+  **End-to-end Japanese-English Speech-to-text Translation with Spoken-to-Written Style Conversion**.
+  In _自然言語処理 (Journal of Natural Language Processing)_, Vol.31, No.3, 2024.
+
 - <u>Shuichiro Shimizu</u>, Chenhui Chu, Sheng Li, and Sadao Kurohashi.
   **Cross-Lingual Transfer Learning for End-to-End Speech Translation**.
   In _自然言語処理 (Journal of Natural Language Processing)_, Vol.29, No.2, 2022.
     - [PDF](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_611/_pdf/-char/ja)
 
 ## International Conference
+
+- Hao Wang, Shuhei Kurita, <u>Shuichiro Shimizu</u>, and Daisuke Kawahara.
+  **SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition**.
+  In _3rd Workshop on Advances in Language and Vision Research (ALVR)_, 2024.
+    - [arXiv](https://arxiv.org/abs/2401.09759)
 
 - Sirou Chen, Sakiko Yahata, <u>Shuichiro Shimizu</u>, Zhengdong Yang, Yihang Li, Chenhui Chu, and Sadao Kurohashi.
   **MELD-ST: An Emotion-aware Speech Translation Dataset**.
@@ -52,13 +61,6 @@
     - [arXiv](https://arxiv.org/abs/2201.08054)
     - [GitHub](https://github.com/ku-nlp/VISA)
 
-
-## Preprints
-
-- Hao Wang, Shuhei Kurita, <u>Shuichiro Shimizu</u>, and Daisuke Kawahara.
-  **SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition**.
-  _arXiv:2401.09759_, 2024.
-    - [arXiv](https://arxiv.org/abs/2401.09759)
 
 ## Domestic Conference (non peer-reviewed)
 
