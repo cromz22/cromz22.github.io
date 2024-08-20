@@ -15,11 +15,13 @@
 - Hao Wang, Shuhei Kurita, <u>Shuichiro Shimizu</u>, and Daisuke Kawahara.
   **SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition**.
   In _3rd Workshop on Advances in Language and Vision Research (ALVR)_, 2024.
+    - [ACL Anthology](https://aclanthology.org/2024.alvr-1.11/)
     - [arXiv](https://arxiv.org/abs/2401.09759)
 
 - Sirou Chen, Sakiko Yahata, <u>Shuichiro Shimizu</u>, Zhengdong Yang, Yihang Li, Chenhui Chu, and Sadao Kurohashi.
   **MELD-ST: An Emotion-aware Speech Translation Dataset**.
   In _Findings of the Association for Computational Linguistics: ACL 2024_, 2024.
+    - [ACL Anthology](https://aclanthology.org/2024.findings-acl.601/)
     - [arXiv](https://arxiv.org/abs/2405.13233)
     - [Hugging Face](https://huggingface.co/datasets/ku-nlp/MELD-ST)
 
