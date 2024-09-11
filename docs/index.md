@@ -11,7 +11,7 @@ I'm currently a visiting scholar at [WAV lab](https://www.wavlab.org/), Carnegie
 
 ## Links
 
-- [CV](./assets/CV_Shimizu_20240404.pdf)
+- [CV](./assets/CV_Shimizu_20240910.pdf)
 - [GitHub](https://github.com/cromz22)
 - [LinkedIn](https://www.linkedin.com/in/shuichiro-shimizu-68666b232/)
 - [X (Twitter)](https://twitter.com/cromz22)
