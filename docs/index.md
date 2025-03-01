@@ -9,7 +9,7 @@ My research encompasses speech translation, dialogue systems, multimodal machine
 
 ## Links
 
-- [CV](./assets/CV_Shimizu_20240910.pdf)
+- [CV](./assets/CV_Shimizu_20250301.pdf)
 - [GitHub](https://github.com/cromz22)
 - [Google Scholar](https://scholar.google.com/citations?user=_YhqXyUAAAAJ)
 - [Hugging Face](https://huggingface.co/cromz22)
