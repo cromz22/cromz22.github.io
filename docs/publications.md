@@ -12,7 +12,7 @@
 
 ## International Conference
 
-- Siddhant Arora, Yifan Peng, Jiatong Shi, Jinchuan Tian, William Chen, Shikhar Bharadwaj, Hayato Futami, Yosuke Kashiwagi, Emiru Tsunoo, <u>Shuichiro Shimizu</u>, Vaibhav Srivastav, Shinji Watanabe.
+- Siddhant Arora, Yifan Peng, Jiatong Shi, Jinchuan Tian, William Chen, Shikhar Bharadwaj, Hayato Futami, Yosuke Kashiwagi, Emiru Tsunoo, <u>Shuichiro Shimizu</u>, Vaibhav Srivastav, and Shinji Watanabe.
   **ESPnet-SDS: Unified Toolkit and Demo for Spoken Dialogue Systems**.
   In _Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 3: System Demonstrations)_, 2025.
 
@@ -66,6 +66,14 @@
     - [Poster](https://s3.eu-west-2.wasabisys.com/lrec2022/posters/595.pdf)
     - [arXiv](https://arxiv.org/abs/2201.08054)
     - [GitHub](https://github.com/ku-nlp/VISA)
+
+
+## Preprints
+
+- Zhengdong Yang, <u>Shuichiro Shimizu</u>, Yahan Yu, and Chenhui Chu.
+  **When Large Language Models Meet Speech: A Survey on Integration Approaches**.
+  _arXiv preprint arxiv:2502.19548_, 2025.
+    - [arXiv](https://www.arxiv.org/abs/2502.19548)
 
 
 ## Domestic Conference (non peer-reviewed)
