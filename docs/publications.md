@@ -12,6 +12,10 @@
 
 ## International Conference
 
+- Siddhant Arora, Yifan Peng, Jiatong Shi, Jinchuan Tian, William Chen, Shikhar Bharadwaj, Hayato Futami, Yosuke Kashiwagi, Emiru Tsunoo, <u>Shuichiro Shimizu</u>, Vaibhav Srivastav, Shinji Watanabe.
+  **ESPnet-SDS: Unified Toolkit and Demo for Spoken Dialogue Systems**.
+  In _Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 3: System Demonstrations)_, 2025.
+
 - Hao Wang, Shuhei Kurita, <u>Shuichiro Shimizu</u>, and Daisuke Kawahara.
   **SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition**.
   In _3rd Workshop on Advances in Language and Vision Research (ALVR)_, 2024.
