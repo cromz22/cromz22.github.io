@@ -1,12 +1,11 @@
 # Shuichiro SHIMIZU / 清水 周一郎
 
 I am a Ph.D. student at [Language Media lab](http://nlp.ist.i.kyoto-u.ac.jp/), Kyoto University, Japan.
+I received B.E. and M.S. from Kyoto University in 2021 and 2023, respectively.
+I was a visiting scholar at [WAV lab](https://wavlab.org/), Carnegie Mellon University, USA in 2024.
 
-## Research Topics
-- Speech translation
-- Dialogue system
-- Multimodal machine translation
-- Multimodal speech recognition
+I'm interested in cross-language communication technologies, with a focus on ambiguity that resides in communication through language.
+My research encompasses speech translation, dialogue systems, multimodal machine translation / speech recognition.
 
 ## Links
 
@@ -21,12 +20,8 @@ I am a Ph.D. student at [Language Media lab](http://nlp.ist.i.kyoto-u.ac.jp/), K
 
 ## News
 
-- Finished visiting [WAV lab](https://www.wavlab.org/), Carnegie Mellon University, USA (Pittsburgh, PA, USA, Apr. - Dec. 2024).
+- A co-authored paper was accepted to NAACL 2025 system demonstrations (Albuquerque, NM, USA, Apr. - May. 2025).
+
+- Finished visiting [WAV lab](https://www.wavlab.org/), Carnegie Mellon University (Pittsburgh, PA, USA, Apr. - Dec. 2024).
 
 - A paper was accepted to ACL 2024 Findings (Bangkok, Thailand, Aug. 2024).
-
-- Presented two papers at NLP 2024 (Kobe, Japan, Mar. 2024).
-
-- One co-authored paper was accepted to EMNLP 2023: Video-Helpful Multimodal Machine Translation (Dec. 2023)
-
-- Provided technical support in developing a conversational robot for Kyoto University IST open seminar 2023 ([YouTube link](https://youtu.be/Sdd0D_6JlQA)). (Aug. 2023)

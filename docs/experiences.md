@@ -13,9 +13,9 @@
 
     [NEC corporation](https://www.nec.com/) is a company which provides software/networking services to companies and government agencies. I worked on mutilingual automatic speech recognition at the [biometrics research lab](https://www.nec.com/en/global/rd/labs/biometrics/index.html).
 
-- **Trainee at NICT** (Nov. 2020 - Present)
+- **Trainee at NICT** (Nov. 2020 - Mar. 2025)
 
-    [NICT](https://www.nict.go.jp/index.html) (National Institute of Information and Communications Technology) is a Japan's national research agency specializing in the field of information and communications technology. I am doing my research as a trainee at the speech processing lab ([ASTREC](https://astrec.nict.go.jp/)) with Dr. Sheng Li.
+    [NICT](https://www.nict.go.jp/index.html) (National Institute of Information and Communications Technology) is a Japan's national research agency specializing in the field of information and communications technology. I worked as a trainee at the speech processing lab ([ASTREC](https://astrec.nict.go.jp/)) with [Dr. Sheng Li](https://halspeech.github.io/index.html).
 
 - **Office assistant at Oki lab** (Jan. 2019 - Mar. 2020)
 
