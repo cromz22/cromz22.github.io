@@ -4,17 +4,19 @@
 - Zhengdong Yang, <u>Shuichiro Shimizu</u>, Chenhui Chu, Sheng Li, and Sadao Kurohashi.
   **End-to-end Japanese-English Speech-to-text Translation with Spoken-to-Written Style Conversion**.
   In _自然言語処理 (Journal of Natural Language Processing)_, Vol.31, No.3, 2024.
+    - [PDF](https://www.jstage.jst.go.jp/article/jnlp/31/3/31_935/_pdf)
 
 - <u>Shuichiro Shimizu</u>, Chenhui Chu, Sheng Li, and Sadao Kurohashi.
   **Cross-Lingual Transfer Learning for End-to-End Speech Translation**.
   In _自然言語処理 (Journal of Natural Language Processing)_, Vol.29, No.2, 2022.
-    - [PDF](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_611/_pdf/-char/ja)
+    - [PDF](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_611/_pdf/)
 
 ## International Conference
 
 - Siddhant Arora, Yifan Peng, Jiatong Shi, Jinchuan Tian, William Chen, Shikhar Bharadwaj, Hayato Futami, Yosuke Kashiwagi, Emiru Tsunoo, <u>Shuichiro Shimizu</u>, Vaibhav Srivastav, and Shinji Watanabe.
   **ESPnet-SDS: Unified Toolkit and Demo for Spoken Dialogue Systems**.
   In _Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 3: System Demonstrations)_, 2025.
+    - [arXiv](https://arxiv.org/abs/2503.08533)
 
 - Hao Wang, Shuhei Kurita, <u>Shuichiro Shimizu</u>, and Daisuke Kawahara.
   **SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition**.
