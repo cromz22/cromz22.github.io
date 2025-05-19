@@ -13,9 +13,23 @@
 
 ## International Conference
 
+- Zaid Sheikh, <u>Shuichiro Shimizu</u>, Siddhant Arora, Jiatong Shi, Samuele Cornell, Xinjian Li, Shinji Watanabe.
+  **Scalable Spontaneous Speech Dataset (SSSD): Crowdsourcing Data Collection to Promote Dialogue Research**.
+  In _Interspeech 2025_, 2025.
+
+- Brian Yan, Injy Hamed, <u>Shuichiro Shimizu</u>, Vasista Lodagala, William Chen, Olga Iakovenko, Bashar Talafha, Amir Hussein, Alexander Polok, Kalvin Chang, Dominik Klement, Sara Althubaiti, Puyuan Peng, Matthew Wiesner, Thamar Solorio, Ahmed Ali, Sanjeev Khudanpur, Shinji Watanabe, Chih-Chen Chen, Zhen Wu, Karim Benharrak, Anuj Diwan, Samuele Cornell, Eunjung Yeo, Kwanghee Choi, Carlos Carvalho, Karen Rosero.
+  **CS-FLEURS: A Massively Multilingual and Code-Switched Speech Dataset**.
+  In _Interspeech 2025_, 2025.
+
+- Zhengdong Yang, <u>Shuichiro Shimizu</u>, Yahan Yu, and Chenhui Chu.
+  **When Large Language Models Meet Speech: A Survey on Integration Approaches**.
+  In _Findings of the Association for Computational Linguistics: ACL 2025_, 2025.
+    - [arXiv](https://www.arxiv.org/abs/2502.19548)
+
 - Siddhant Arora, Yifan Peng, Jiatong Shi, Jinchuan Tian, William Chen, Shikhar Bharadwaj, Hayato Futami, Yosuke Kashiwagi, Emiru Tsunoo, <u>Shuichiro Shimizu</u>, Vaibhav Srivastav, and Shinji Watanabe.
   **ESPnet-SDS: Unified Toolkit and Demo for Spoken Dialogue Systems**.
   In _Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 3: System Demonstrations)_, 2025.
+    - [ACL Anthology](https://aclanthology.org/2025.naacl-demo.21/)
     - [arXiv](https://arxiv.org/abs/2503.08533)
 
 - Hao Wang, Shuhei Kurita, <u>Shuichiro Shimizu</u>, and Daisuke Kawahara.
@@ -68,15 +82,6 @@
     - [Poster](https://s3.eu-west-2.wasabisys.com/lrec2022/posters/595.pdf)
     - [arXiv](https://arxiv.org/abs/2201.08054)
     - [GitHub](https://github.com/ku-nlp/VISA)
-
-
-## Preprints
-
-- Zhengdong Yang, <u>Shuichiro Shimizu</u>, Yahan Yu, and Chenhui Chu.
-  **When Large Language Models Meet Speech: A Survey on Integration Approaches**.
-  _arXiv preprint arxiv:2502.19548_, 2025.
-    - [arXiv](https://www.arxiv.org/abs/2502.19548)
-
 
 ## Domestic Conference (non peer-reviewed)
 
