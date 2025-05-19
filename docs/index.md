@@ -20,8 +20,10 @@ My research encompasses speech translation, dialogue systems, multimodal machine
 
 ## News
 
-- A co-authored paper was accepted to NAACL 2025 system demonstrations (Albuquerque, NM, USA, Apr. - May. 2025).
+- Two papers were accepted to Interspeech 2025 (Rotterdam, Netherlands, Aug. 2025).
+
+- A paper was accepted to ACL 2025 Findings (Vienna, Austria, Jul. - Aug. 2025).
+
+- A paper was accepted to NAACL 2025 system demonstrations (Albuquerque, NM, USA, Apr. - May. 2025).
 
 - Finished visiting [WAV lab](https://www.wavlab.org/), Carnegie Mellon University (Pittsburgh, PA, USA, Apr. - Dec. 2024).
-
-- A paper was accepted to ACL 2024 Findings (Bangkok, Thailand, Aug. 2024).
