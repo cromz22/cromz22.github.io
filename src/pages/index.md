@@ -1,3 +1,7 @@
+---
+layout: ../layouts/BaseLayout.astro
+---
+
 # Shuichiro SHIMIZU / 清水 周一郎
 
 I am a Ph.D. student at [Language Media lab](http://nlp.ist.i.kyoto-u.ac.jp/), Kyoto University, Japan.

@@ -1,3 +1,8 @@
+---
+layout: ../layouts/BaseLayout.astro
+---
+
+# Awards and Grants
 
 - [JSPS Overseas Challenge Program for Young Researchers](https://www.jsps.go.jp/english/e-abc/index.html) for research on speech language models. (Apr. 2024 – Dec. 2024)
 

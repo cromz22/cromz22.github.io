@@ -1,3 +1,8 @@
+---
+layout: ../layouts/BaseLayout.astro
+---
+
+# Publications
 
 ## Journal
 
