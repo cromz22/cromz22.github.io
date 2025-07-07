@@ -1,0 +1,42 @@
+---
+const links = [
+  { href: "/ja/publications", label: "研究発表" },
+  { href: "/ja/education", label: "学歴" },
+  { href: "/ja/experiences", label: "職歴" },
+  { href: "/ja/awards_and_grants", label: "受賞等" },
+];
+---
+<header class="navbar">
+  <nav>
+    <div class="navbar__inner">
+      <!-- logo -->
+      <div class="navbar__logo">
+        <a href="/ja">清水 周一郎</a>
+      </div>
+
+      <!-- desktop links -->
+      <ul class="navbar__list">
+        {links.map(link => (
+          <li><a href={link.href}>{link.label}</a></li>
+        ))}
+      </ul>
+
+      <!-- mobile toggle -->
+      <button id="menu-button" class="navbar__toggle">☰</button>
+    </div>
+
+    <!-- mobile dropdown -->
+    <div id="mobile-menu" class="navbar__mobile hidden">
+      {links.map(link => (
+        <a href={link.href}>{link.label}</a>
+      ))}
+    </div>
+  </nav>
+</header>
+
+<script>
+  document.getElementById('menu-button')
+    .addEventListener('click', () =>
+      document.getElementById('mobile-menu').classList.toggle('hidden')
+    );
+</script>

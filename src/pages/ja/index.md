@@ -1,8 +1,8 @@
 ---
-layout: ../layouts/BaseLayout.astro
+layout: ../../layouts/JaBaseLayout.astro
 ---
 
-# Shuichiro Shimizu
+# 清水 周一郎
 
 I am a Ph.D. student at [Language Media lab](http://nlp.ist.i.kyoto-u.ac.jp/), Kyoto University, Japan.
 I received B.E. and M.S. from Kyoto University in 2021 and 2023, respectively.
