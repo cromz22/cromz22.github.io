@@ -1,4 +1,5 @@
 ---
+import Header from "../components/Header.astro";
 import "../styles/global.css";
 const pageTitle = "Shuichiro Shimizu";
 const { frontmatter } = Astro.props;
@@ -12,7 +13,8 @@ const { frontmatter } = Astro.props;
     <title>{pageTitle}</title>
   </head>
   <body>
-    <main class="markdown">
+    <Header />
+    <main class="markdown margin-header">
       <slot />
     </main>
   </body>
