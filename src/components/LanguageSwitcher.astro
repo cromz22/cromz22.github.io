@@ -1,0 +1,68 @@
+---
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import { IoLanguage } from "react-icons/io5";
+import { IoMdArrowDropdown } from "react-icons/io";
+
+const locales = ["ja", "en"];
+const { pathname } = new URL(Astro.request.url);
+
+const basePath = pathname.replace(
+  new RegExp(`^\/(${locales.join("|")})`), ""
+) || "/";
+
+---
+<div class="lang-switcher">
+  <IoLanguage />
+  <select id="lang-switcher-select" client:load>
+    {locales.map((lang) => {
+      const url = getRelativeLocaleUrl(lang, basePath);
+      return (
+        <option value={url} selected={pathname.startsWith(`/${lang}`)}>
+          {lang === "en" ? "English" : "日本語"}
+        </option>
+      );
+    })}
+  </select>
+  <IoMdArrowDropdown />
+</div>
+
+<script>
+  document
+    .getElementById("lang-switcher-select")
+    .addEventListener("change", (e) => {
+      window.location.href = e.target.value;
+    });
+</script>
+
+<style>
+.lang-switcher {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: #fff;
+  font-size: 0.875rem;
+}
+
+.lang-switcher svg {
+  width: 1rem;
+  height: 1rem;
+  flex-shrink: 0;
+}
+
+#lang-switcher-select {
+  border: none;
+  background: transparent;
+  font: inherit;
+  padding-right: 1.25rem;
+  cursor: pointer;
+  appearance: none;
+  padding: 0;
+}
+
+#lang-switcher-select:focus {
+  outline: none;
+}
+</style>
