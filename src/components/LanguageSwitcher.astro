@@ -3,8 +3,10 @@ import { getRelativeLocaleUrl } from 'astro:i18n';
 import { IoLanguage } from "react-icons/io5";
 import { IoMdArrowDropdown } from "react-icons/io";
 
-const locales = ["ja", "en"];
 const { pathname } = new URL(Astro.request.url);
+const locales = ["ja", "en"];
+const currentLang = locales.find(lang => pathname.startsWith(`/${lang}`)) ?? locales[0];
+const sortedLocales = [currentLang, ...locales.filter(lang => lang !== currentLang)];
 
 const basePath = pathname.replace(
   new RegExp(`^\/(${locales.join("|")})`), ""
@@ -14,10 +16,13 @@ const basePath = pathname.replace(
 <div class="lang-switcher">
   <IoLanguage />
   <select id="lang-switcher-select" client:load>
-    {locales.map((lang) => {
+    {sortedLocales.map((lang) => {
       const url = getRelativeLocaleUrl(lang, basePath);
       return (
-        <option value={url} selected={pathname.startsWith(`/${lang}`)}>
+        <option
+          value={url}
+          selected={lang === currentLang}
+        >
           {lang === "en" ? "English" : "日本語"}
         </option>
       );
