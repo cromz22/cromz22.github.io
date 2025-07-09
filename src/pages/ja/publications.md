@@ -8,12 +8,12 @@ layout: ../../layouts/JaBaseLayout.astro
 
 - Zhengdong Yang, <u>Shuichiro Shimizu</u>, Chenhui Chu, Sheng Li, and Sadao Kurohashi.
   **End-to-end Japanese-English Speech-to-text Translation with Spoken-to-Written Style Conversion**.
-  In _自然言語処理 (Journal of Natural Language Processing)_, Vol.31, No.3, 2024.
+  _自然言語処理_, Vol.31, No.3, 2024.
     - [PDF](https://www.jstage.jst.go.jp/article/jnlp/31/3/31_935/_pdf)
 
 - <u>Shuichiro Shimizu</u>, Chenhui Chu, Sheng Li, and Sadao Kurohashi.
   **Cross-Lingual Transfer Learning for End-to-End Speech Translation**.
-  In _自然言語処理 (Journal of Natural Language Processing)_, Vol.29, No.2, 2022.
+  _自然言語処理_, Vol.29, No.2, 2022.
     - [PDF](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_611/_pdf/)
 
 ## 国際会議
@@ -90,36 +90,35 @@ layout: ../../layouts/JaBaseLayout.astro
 
 ## 国内会議
 
-- <u>Shuichiro Shimizu</u>, Yin Jou Huang, Yugo Murawaki, and Chenhui Chu.
-  **対話の齟齬と介入による解消：LLMを用いた検討 (Discrepancies in Dialogue and
-Resolution through Intervention: An Examination using LLM)**.
-  In _言語処理学会 第30回年次大会 発表論文集 (Proceedings of the 30th Annual Meeting of the Association for Natural Language Processing)_, 2024.
+- <u>清水 周一郎</u>, Yin Jou Huang, 村脇 有吾, Chenhui Chu.
+  **対話の齟齬と介入による解消：LLMを用いた検討**.
+  _言語処理学会 第30回年次大会 発表論文集_, 2024.
     - [PDF (Ja)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P5-28.pdf)
 
-- Hao Wang, Shuhei Kurita, <u>Shuichiro Shimizu</u>, and Daisuke Kawahara.
-  **SlideAVSR: 視聴覚音声認識のための論文解説動画データセット (SlideAVSR: A Dataset of Paper Explanation Videos for Audio-Visual Speech Recognition)**.
-  In _言語処理学会 第30回年次大会 発表論文集 (Proceedings of the 30th Annual Meeting of the Association for Natural Language Processing)_, 2024.
-      - [PDF (Ja)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B5-3.pdf)
+- 王 昊, 栗田 修平, <u>清水 周一郎</u>, 河原 大輔.
+  **SlideAVSR: 視聴覚音声認識のための論文解説動画データセット**.
+  _言語処理学会 第30回年次大会 発表論文集_, 2024.
+    - [PDF (Ja)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B5-3.pdf)
 
 
-- <u>Shuichiro Shimizu</u>, Chenhui Chu, Sheng Li, and Sadao Kurohashi.
-  **異言語話者の対話を仲介する音声対話翻訳 (Speech Dialogue Translation Mediating Speakers of Different Languages)**.
-  In _言語処理学会 第29回年次大会 発表論文集 (Proceedings of the 29th Annual Meeting of the Association for Natural Language Processing)_, 2023.
+- <u>清水 周一郎</u>, Chenhui Chu, Sheng Li, 黒橋 禎夫.
+  **異言語話者の対話を仲介する音声対話翻訳**.
+  _言語処理学会 第29回年次大会 発表論文集_, 2023.
     - [PDF (Ja)](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/A5-2.pdf)
 
 - Iglika Nikolova-Stoupak, <u>Shuichiro Shimizu</u>, Chenhui Chu, and Sadao Kurohashi.
   **Filtering of a Web-Crawled Corpus to Achieve a Strong MT Model: a Case Study on the Japanese-Bulgarian Language Pair**.
-  In _言語処理学会 第29回年次大会 発表論文集 (Proceedings of the 29th Annual Meeting of the Association for Natural Language Processing)_, 2023.
+  _言語処理学会 第29回年次大会 発表論文集_, 2023.
     - [PDF](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P6-8.pdf)
 
-- Yihang Li, <u>Shuichiro Shimizu</u>, Chenhui Chu, and Sadao Kurohashi.
-  **曖昧性を含む翻訳に着目したマルチモーダル機械翻訳データセットの構築方法の検討 (Towards the Construction of Multimodal Machine Translation Dataset Focusing on Ambiguity of Translations)**.
-  In _言語処理学会 第28回年次大会 発表論文集 (Proceedings of the 28th Annual Meeting of the Association for Natural Language Processing)_, 2022.
+- Yihang Li, <u>清水 周一郎</u>, Chenhui Chu, 黒橋 禎夫.
+  **曖昧性を含む翻訳に着目したマルチモーダル機械翻訳データセットの構築方法の検討**.
+  _言語処理学会 第28回年次大会 発表論文集_, 2022.
     - [PDF (Ja)](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PH4-12.pdf)
 
 - <u>Shuichiro Shimizu</u>, Chenhui Chu, Sheng Li, and Sadao Kurohashi.
   **End-to-End Speech Translation with Cross-lingual Transfer Learning**.
-  In _言語処理学会 第27回年次大会 発表論文集 (Proceedings of the 27th Annual Meeting of the Association for Natural Language Processing)_, 2021.
+  _言語処理学会 第27回年次大会 発表論文集_, 2021.
     - [PDF](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/A8-4.pdf)
 
 ## その他
