@@ -4,15 +4,14 @@ layout: ../../layouts/JaBaseLayout.astro
 
 # 学歴
 
-- Ph.D. student, Informatics (Intelligence Science and Technology), Kyoto University (Apr. 2023 - Present)
-    - Advisor: Associate professor [Chenhui CHU](https://scholar.google.com/citations?user=6ef0qbgAAAAJ)
+- 京都大学 大学院情報学研究科 知能情報学コース 博士課程 (2023年4月 - 現在)
+    - 指導教員: [Chenhui Chu](https://scholar.google.com/citations?user=6ef0qbgAAAAJ) 准教授
 
-- Visiting scholar, Computer Science (Language Technologies Institute), Carnegie Mellon University (Apr. 2024 - Dec. 2024)
-    - Advisor: Associate professor [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe)
+- カーネギーメロン大学言語技術研究所 招聘研究員 (2024年4-12月)
+    - 指導教員: [渡部晋治](https://sites.google.com/view/shinjiwatanabe) 准教授
 
-- M.S., Informatics (Intelligence Science and Technology), Kyoto University (Apr. 2021 - Mar. 2023)
-    - Advisor: Professor [Sadao KUROHASHI](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/)
+- 京都大学 大学院情報学研究科 知能情報学コース 修士号取得 (2023年3月)
+    - 指導教員: [黒橋禎夫](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) 教授
 
-- B.E., Electrical and Electoronic Engineering, Kyoto University (Apr. 2017 - Mar. 2021)
-    - Advisor: Professor [Sadao KUROHASHI](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/)
-
+- 京都大学 工学部 電気電子工学科 学士号取得 (2021年3月)
+    - 指導教員: [黒橋禎夫](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) 教授

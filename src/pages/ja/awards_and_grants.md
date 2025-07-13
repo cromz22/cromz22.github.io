@@ -2,10 +2,13 @@
 layout: ../../layouts/JaBaseLayout.astro
 ---
 
-# 受賞等
+# 研究費獲得・受賞実績
 
-- [JSPS Overseas Challenge Program for Young Researchers](https://www.jsps.go.jp/english/e-abc/index.html) for research on speech language models. (Apr. 2024 – Dec. 2024)
+- [日本学術振興会 若手研究者海外挑戦プログラム](https://www.jsps.go.jp/j-abc/index.html) (2024年4-12月)
+    - 滞在費（140万円）及び往復航空費
 
-- [JSPS Research Fellowship for Young Scientists (DC1)](https://www.jsps.go.jp/english/e-pd/) for research on dialogue application of speech translation. (Apr. 2023 – Mar. 2026)
+- [日本学術振興会 特別研究員（DC1）](https://www.jsps.go.jp/j-pd/index.html) (2023年4月 - 2026年3月)
+    - 研究費（90万円/年）、研究奨励金（20万円/月）
+    - 研究奨励金特別手当（3万円/月）（2025年4月 - 2026年3月）
 
-- **Special Committee Award** for the paper **Towards the Construction of Multimodal Machine Translation Dataset Focusing on Ambiguity of Translations** in the 28th Annual Meeting of the Association for Natural Language Processing. (Mar. 2022)
+- 委員特別賞 (曖昧性を含む翻訳に着目したマルチモーダル機械翻訳データセットの構築方法の検討), 言語処理学会 第28回年次大会 (2022年3月)

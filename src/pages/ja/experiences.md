@@ -6,39 +6,29 @@ layout: ../../layouts/JaBaseLayout.astro
 
 ## 研究
 
-- **JSPS Overseas Challenge Program for Young Researchers** (Apr. 2024 - Dec. 2024)
+- **日本学術振興会 特別研究員（DC1）** (2023年4月 - 2026年3月)
+    - 研究課題名: メタ介入機構を備えた音声対話翻訳システムの構築
 
-    [JSPS](https://www.jsps.go.jp/english/index.html) (Japan Society for Promotion of Science) is a governmental independent administrative agency that provides fellowships for Japanese scientists. I'm working on a research about speech language models.
+- **NEC 研究インターンシップ** (2021年8-9月)
+    - 多言語音声認識に関する研究に従事
 
-- **JSPS Research Fellowship for Young Scientists (DC1)** (Apr. 2023 - Mar. 2026)
+- **NICT 研修員** (2020年11月 - 2025年3月)
+    - 音声翻訳に関する研究に従事
 
-    I'm working on a research related to dialogue and speech translation.
-
-- **Internship at NEC** (Aug. 2021 - Sep. 2021)
-
-    [NEC corporation](https://www.nec.com/) is a company which provides software/networking services to companies and government agencies. I worked on mutilingual automatic speech recognition at the [biometrics research lab](https://www.nec.com/en/global/rd/labs/biometrics/index.html).
-
-- **Trainee at NICT** (Nov. 2020 - Mar. 2025)
-
-    [NICT](https://www.nict.go.jp/index.html) (National Institute of Information and Communications Technology) is a Japan's national research agency specializing in the field of information and communications technology. I worked as a trainee at the speech processing lab ([ASTREC](https://astrec.nict.go.jp/)) with [Dr. Sheng Li](https://halspeech.github.io/index.html).
-
-- **Office assistant at Oki lab** (Jan. 2019 - Mar. 2020)
-
-    [Oki lab](http://icn.cce.i.kyoto-u.ac.jp/) (Department of Communications and Computer Engineering, Graduate School of Informatics, Kyoto University) is a laboratory working on networking technologies. I helped develop a system to construct a relational network of people based on their brain activities. Please refer to [the publication](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8792189) for more details.
+- **京都大学大学院情報学研究科通信情報システム専攻大木研究室 オフィス・アシスタント** (2019年1月 - 2020年3月)
+    - 脳情報に基づく関係ネットワークの構築に関する研究に従事
 
 ## 教育
 
-- Teaching assistant, [Open course of artificial intelligence](https://www.kyoto-u.ac.jp/ja/event/2023-04-28), Kyoto University, Sep. 2023
-- Teaching assistant, Programming and exercises in electrical and electronic engineering, Kyoto University (Apr. 2022 - Aug. 2022)
-- Teaching assistant, Programming and exercises in electrical and electronic engineering, Kyoto University (Apr. 2021 - Aug. 2021)
-- Private tutor for a high school student in mathematics, physics, chemistry, and English (Nov. 2018 - Mar. 2020)
-- Private school teacher for elementary, junior high, and high school students in mathematics and English (Feb. 2018 - Mar. 2019)
+- TA, [人工知能講座](https://www.kyoto-u.ac.jp/ja/event/2023-04-28), 京都大学 (2023年9月)
+- TA, 電気電子工学プログラミング及び演習, 京都大学 (2021年4-8月, 2022年4-8月)
+- 高校家庭教師（数学・物理・化学・英語）(2018年11月 - 2020年3月)
+- 塾講師（小・中・高、数学・英語）(2018年2月 - 2019年3月)
 
 ## その他
 
-- Exchange student tutor, Kyoto University (Oct. 2021 - Mar. 2022)
-- Exchange student tutor, Kyoto University (Apr. 2021 - Sep. 2021)
-- Lecturer, Personal computer class for first-year university students, Kyoto University CO-OP (2021 - 2022)
-- Director, Personal computer class for first-year university students, Kyoto University CO-OP (2019 - 2020)
-- Private school grader for mock university entrance examination in English (2017 - 2020)
-- Developer, [Kangi](http://www.kangi3d.com/) (May 2018 - Mar. 2023)
+- 留学生チューター, 京都大学 (2021年4-9月, 2021年10月 - 2022年3月)
+- 講師, 京大生のためのPCスキルアップ講座, 京都大学生協 (2021 - 2022年)
+- ディレクター, 京大生のためのPCスキルアップ講座, 京都大学生協 (2019 - 2020年)
+- 大学入試模擬試験採点者（英語）, 代々木ゼミナール (2017 - 2020年)
+- プログラミング部門 開発者, [関技](http://www.kangi3d.com/) (2018年5月 - 2023年3月)
