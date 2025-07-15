@@ -32,6 +32,9 @@ const links = [
       {links.map(link => (
         <a href={link.href}>{link.label}</a>
       ))}
+      <div class="navbar__mobile-lang-switcher">
+        <LanguageSwitcher />
+      </div>
     </div>
   </nav>
 </header>

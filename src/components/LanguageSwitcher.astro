@@ -15,7 +15,18 @@ const basePath = pathname.replace(
 ---
 <div class="lang-switcher">
   <IoLanguage />
-  <select id="lang-switcher-select" client:load>
+  <span class="lang-label">
+    {currentLang === "en" ? "English" : "日本語"}
+  </span>
+  <IoMdArrowDropdown />
+
+  <select
+    class="lang-switcher-select"
+    name="language"
+    aria-label="Select language"
+    client:load
+    onchange="window.location.href=this.value"
+  >
     {sortedLocales.map((lang) => {
       const url = getRelativeLocaleUrl(lang, basePath);
       return (
@@ -28,47 +39,31 @@ const basePath = pathname.replace(
       );
     })}
   </select>
-  <IoMdArrowDropdown />
 </div>
-
-<script>
-  document
-    .getElementById("lang-switcher-select")
-    .addEventListener("change", (e) => {
-      window.location.href = e.target.value;
-    });
-</script>
 
 <style>
 .lang-switcher {
+  position: relative;
   display: inline-flex;
   align-items: center;
-  gap: 0.25rem;
-  padding: 0.25rem 0.5rem;
+  gap: .25rem;
+  padding: .25rem .5rem;
   border: 1px solid #ccc;
   border-radius: 4px;
   background: #fff;
-  font-size: 0.875rem;
+  font-size: .875rem;
 }
 
-.lang-switcher svg {
-  width: 1rem;
-  height: 1rem;
-  flex-shrink: 0;
+.lang-switcher svg, .lang-label {
+  z-index: 1;
+  pointer-events: none;
 }
 
-#lang-switcher-select {
-  border: none;
-  background: transparent;
-  font: inherit;
-  padding-right: 1.25rem;
+.lang-switcher-select {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  opacity: 0;
   cursor: pointer;
-  appearance: none;
-  padding: 0;
-  text-align: center;
-}
-
-#lang-switcher-select:focus {
-  outline: none;
 }
 </style>
