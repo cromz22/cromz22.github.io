@@ -95,3 +95,16 @@
   width: 100%;
   text-align: left;
 }
+
+/* dim and disable background when menu is open */
+body.menu-open .markdown {
+  background-color: #eee;
+  filter: brightness(0.5);
+  pointer-events: none;
+  transition: filter 0.3s ease;
+}
+
+body.menu-open #mobile-menu {
+  pointer-events: auto;
+  z-index: 1001;
+}
