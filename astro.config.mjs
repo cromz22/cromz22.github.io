@@ -13,7 +13,7 @@ export default defineConfig({
     },
     routing: {
       prefixDefaultLocale: true,
-      fallbackType: "redirect",
+      fallbackType: "rewrite",
     },
   }
 });
