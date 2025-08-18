@@ -21,10 +21,12 @@ layout: ../../layouts/JaBaseLayout.astro
 - Zaid Sheikh, <u>Shuichiro Shimizu</u>, Siddhant Arora, Jiatong Shi, Samuele Cornell, Xinjian Li, Shinji Watanabe.
   **Scalable Spontaneous Speech Dataset (SSSD): Crowdsourcing Data Collection to Promote Dialogue Research**.
   In _Proceedings of Interspeech 2025_, 2025.
+    - [ISCA Archive](https://www.isca-archive.org/interspeech_2025/sheikh25_interspeech.html)
 
 - Brian Yan, Injy Hamed, <u>Shuichiro Shimizu</u>, Vasista Lodagala, William Chen, Olga Iakovenko, Bashar Talafha, Amir Hussein, Alexander Polok, Kalvin Chang, Dominik Klement, Sara Althubaiti, Puyuan Peng, Matthew Wiesner, Thamar Solorio, Ahmed Ali, Sanjeev Khudanpur, Shinji Watanabe, Chih-Chen Chen, Zhen Wu, Karim Benharrak, Anuj Diwan, Samuele Cornell, Eunjung Yeo, Kwanghee Choi, Carlos Carvalho, Karen Rosero.
   **CS-FLEURS: A Massively Multilingual and Code-Switched Speech Dataset**.
   In _Proceedings of Interspeech 2025_, 2025.
+    - [ISCA archive](https://www.isca-archive.org/interspeech_2025/yan25c_interspeech.html)
 
 - Zhengdong Yang, <u>Shuichiro Shimizu</u>, Yahan Yu, and Chenhui Chu.
   **When Large Language Models Meet Speech: A Survey on Integration Approaches**.
