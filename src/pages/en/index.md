@@ -15,6 +15,8 @@ Should you wish to contact me, please use the email address listed on the CV.
 
 ## News
 
+- I'll be a student chair for the [IJCNLP-AACL 2025 Student Research Workshop](https://aacl2025-srw.github.io/) (Mumbai, India, Dec. 2025).
+
 - Two papers were accepted to Interspeech 2025 (Rotterdam, Netherlands, Aug. 2025).
 
 - A paper was accepted to ACL 2025 Findings (Vienna, Austria, Jul. - Aug. 2025).

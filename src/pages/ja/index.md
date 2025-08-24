@@ -14,6 +14,8 @@ layout: ../../layouts/JaBaseLayout.astro
 
 ## News
 
+- IJCNLP-AACL 2025 (インド・ムンバイ, 2025年12月) で student chair として student research workshop を主催します。
+
 - Interspeech 2025 (オランダ・ロッテルダム, 2025年8月) に論文2本が採択されました。
 
 - ACL 2025 Findings (オーストリア・ウィーン, 2025年7-8月) に論文が採択されました。
