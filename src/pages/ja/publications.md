@@ -33,6 +33,7 @@ layout: ../../layouts/JaBaseLayout.astro
 - Zhengdong Yang, <u>Shuichiro Shimizu</u>, Yahan Yu, and Chenhui Chu.
   **When Large Language Models Meet Speech: A Survey on Integration Approaches**.
   In _Findings of the Association for Computational Linguistics: ACL 2025_, 2025.
+    - [ACL Anthology](https://aclanthology.org/2025.findings-acl.1041/)
     - [arXiv](https://www.arxiv.org/abs/2502.19548)
 
 - Siddhant Arora, Yifan Peng, Jiatong Shi, Jinchuan Tian, William Chen, Shikhar Bharadwaj, Hayato Futami, Yosuke Kashiwagi, Emiru Tsunoo, <u>Shuichiro Shimizu</u>, Vaibhav Srivastav, and Shinji Watanabe.
