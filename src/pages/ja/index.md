@@ -24,7 +24,7 @@ layout: ../../layouts/JaBaseLayout.astro
 
 ## リンク集
 
-- [CV](/assets/CV_Shimizu_20250915.pdf)
+- [CV](/assets/CV_Shimizu_20251014.pdf)
 - [GitHub](https://github.com/cromz22)
 - [Google Scholar](https://scholar.google.com/citations?user=_YhqXyUAAAAJ)
 - [Hugging Face](https://huggingface.co/cromz22)
