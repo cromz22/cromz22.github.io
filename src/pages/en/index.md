@@ -15,6 +15,8 @@ Should you wish to contact me, please use the email address listed on the CV.
 
 ## News
 
+- I'm an intern at [SB Intuitions](https://www.sbintuitions.co.jp/en/) (Dec. 2025 - Feb. 2026).
+
 - I've hosted the [IJCNLP-AACL 2025 Student Research Workshop](https://aacl2025-srw.github.io/) as a student chair (Mumbai, India, Dec. 2025).
 
 - Two papers were accepted to Interspeech 2025 (Rotterdam, Netherlands, Aug. 2025).

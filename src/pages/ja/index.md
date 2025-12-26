@@ -14,6 +14,8 @@ layout: ../../layouts/JaBaseLayout.astro
 
 ## News
 
+- [SB Intuitions](https://www.sbintuitions.co.jp/) でインターンをします。 (2025年12月 - 2026年2月)
+
 - IJCNLP-AACL 2025 (インド・ムンバイ, 2025年12月) で student chair として [student research workshop](https://aacl2025-srw.github.io/) を主催しました。
 
 - Interspeech 2025 (オランダ・ロッテルダム, 2025年8月) に論文2本が採択されました。
