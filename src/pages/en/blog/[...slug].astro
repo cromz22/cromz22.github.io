@@ -1,0 +1,32 @@
+---
+import EnBaseLayout from "../../../layouts/EnBaseLayout.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("blog", ({ data }) => data.locale === "en" && !data.draft);
+
+  return entries.map((entry) => {
+    const slugWithoutLocale = entry.slug.replace(/^en\//, "");
+    return {
+      params: { slug: slugWithoutLocale },
+      props: { entry },
+    };
+  });
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<EnBaseLayout>
+  <h1>{entry.data.title}</h1>
+
+  <p>
+    <small>
+      {entry.data.pubDate.toISOString().slice(0, 10)}
+      {entry.data.updatedDate ? ` (updated ${entry.data.updatedDate.toISOString().slice(0, 10)})` : ""}
+    </small>
+  </p>
+
+  <Content />
+</EnBaseLayout>
