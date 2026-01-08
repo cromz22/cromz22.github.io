@@ -6,6 +6,10 @@ layout: ../../layouts/EnBaseLayout.astro
 
 ## Research
 
+- **Internship at SB Intuitions** (Dec. 2025 - Feb. 2026)
+
+    [SB Intuitions](https://www.sbintuitions.co.jp/en/) is a [SoftBank Group](https://group.softbank/en) company focused on AI research and development, with a focus on the Japanese language. I'm working on simultaneous speech translation.
+
 - **JSPS Overseas Challenge Program for Young Researchers** (Apr. 2024 - Dec. 2024)
 
     [JSPS](https://www.jsps.go.jp/english/index.html) (Japan Society for Promotion of Science) is a governmental independent administrative agency that provides fellowships for Japanese scientists. I'm working on a research about speech language models.
