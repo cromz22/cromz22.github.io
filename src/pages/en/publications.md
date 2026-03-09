@@ -18,6 +18,10 @@ layout: ../../layouts/EnBaseLayout.astro
 
 ## International Conference
 
+- Brian Yan, Qingzheng Wang, Matthew Wiesner, Anuj Diwan, Olga Iakovenko, Alex Polok, Injy Hamed, <u>Shuichiro Shimizu</u>, Iris Emerman, Thomas Hain, David R. Mortensen, Peter Viechnicki and Shinji Watanabe.
+  **CS-YODAS: A Mined Dataset of In-the-Wild Code-Switched Speech**.
+  In _Proceedings of the 15th International Conference on Language Resources and Evaluation (LREC 2026)_, 2026.
+
 - Zaid Sheikh, <u>Shuichiro Shimizu</u>, Siddhant Arora, Jiatong Shi, Samuele Cornell, Xinjian Li, Shinji Watanabe.
   **Scalable Spontaneous Speech Dataset (SSSD): Crowdsourcing Data Collection to Promote Dialogue Research**.
   In _Proceedings of Interspeech 2025_, 2025.
