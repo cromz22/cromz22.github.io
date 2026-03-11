@@ -1,0 +1,47 @@
+---
+import "../styles/global.css";
+import "../styles/404.css";
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="robots" content="noindex" />
+    <title>Page Not Found</title>
+  </head>
+  <body class="error-page">
+    <main class="error-page__content">
+      <section data-locale="en">
+        <div class="error-page__code" aria-hidden="true">404</div>
+        <h1>Page not found</h1>
+        <p>The page you requested does not exist or has moved.</p>
+        <div class="error-page__actions">
+          <a href="/en/">Go to the English homepage</a>
+        </div>
+      </section>
+
+      <section data-locale="ja" hidden>
+        <div class="error-page__code" aria-hidden="true">404</div>
+        <h1>ページが見つかりません</h1>
+        <p>お探しのページは存在しないか、移動した可能性があります。</p>
+        <div class="error-page__actions">
+          <a href="/ja/">日本語トップページへ</a>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      const isJapanesePath = window.location.pathname.startsWith("/ja");
+      document.documentElement.lang = isJapanesePath ? "ja" : "en";
+      document.title = isJapanesePath ? "ページが見つかりません" : "Page Not Found";
+
+      document.querySelectorAll("[data-locale]").forEach((section) => {
+        if (!(section instanceof HTMLElement)) {
+          return;
+        }
+
+        section.hidden = section.dataset.locale !== (isJapanesePath ? "ja" : "en");
+      });
+    </script>
+  </body>
+</html>
