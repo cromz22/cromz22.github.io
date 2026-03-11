@@ -1,0 +1,34 @@
+---
+import "../styles/redirect.css";
+
+const pageTitle = "Redirecting...";
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="robots" content="noindex" />
+    <title>{pageTitle}</title>
+  </head>
+  <body class="redirect-page">
+    <main class="redirect-page__content">
+      <p>Redirecting to your preferred language...</p>
+      <noscript>
+        <p>Select a language:</p>
+        <ul class="redirect-page__links">
+          <li><a href="/en/">English</a></li>
+          <li><a href="/ja/">日本語</a></li>
+        </ul>
+      </noscript>
+    </main>
+
+    <script>
+      const savedLocale = window.localStorage.getItem("preferred-locale");
+      const browserLocales = window.navigator.languages ?? [window.navigator.language ?? "en"];
+      const locale = savedLocale
+        ?? (browserLocales.some((entry) => entry.toLowerCase().startsWith("ja")) ? "ja" : "en");
+
+      window.location.replace(`/${locale}/`);
+    </script>
+  </body>
+</html>

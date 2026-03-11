@@ -24,8 +24,6 @@ const basePath = pathname.replace(
     class="lang-switcher-select"
     name="language"
     aria-label="Select language"
-    client:load
-    onchange="window.location.href=this.value"
   >
     {sortedLocales.map((lang) => {
       const url = getRelativeLocaleUrl(lang, basePath);
@@ -40,6 +38,22 @@ const basePath = pathname.replace(
     })}
   </select>
 </div>
+
+<script>
+  document.querySelectorAll(".lang-switcher-select").forEach((element) => {
+    if (!(element instanceof HTMLSelectElement) || element.dataset.bound === "true") {
+      return;
+    }
+
+    element.dataset.bound = "true";
+    element.addEventListener("change", () => {
+      const nextUrl = element.value;
+      const locale = nextUrl.startsWith("/ja") ? "ja" : "en";
+      window.localStorage.setItem("preferred-locale", locale);
+      window.location.href = nextUrl;
+    });
+  });
+</script>
 
 <style>
 .lang-switcher {
