@@ -99,6 +99,11 @@ layout: ../../layouts/JaBaseLayout.astro
 
 ## 国内会議
 
+- <u>清水 周一郎</u>, Chenhui Chu.
+  **大規模言語モデルによる音声対話翻訳**.
+  _言語処理学会 第32回年次大会 発表論文集_, 2026.
+    - [PDF (Ja)](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C9-10.pdf)
+
 - <u>清水 周一郎</u>, Yin Jou Huang, 村脇 有吾, Chenhui Chu.
   **対話の齟齬と介入による解消：LLMを用いた検討**.
   _言語処理学会 第30回年次大会 発表論文集_, 2024.

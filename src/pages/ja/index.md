@@ -16,6 +16,8 @@ layout: ../../layouts/JaBaseLayout.astro
 
 - LREC 2026 (スペイン・パルマ, 2026年5月) に論文が採択されました。
 
+- NLP 2026 (宇都宮, 2026年3月) で研究発表をします。
+
 - [SB Intuitions](https://www.sbintuitions.co.jp/) でインターンをしました。 (2025年12月 - 2026年2月)
 
 - IJCNLP-AACL 2025 (インド・ムンバイ, 2025年12月) で student chair として [student research workshop](https://aacl2025-srw.github.io/) を主催しました。

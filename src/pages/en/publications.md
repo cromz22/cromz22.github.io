@@ -99,6 +99,11 @@ layout: ../../layouts/EnBaseLayout.astro
 
 ## Domestic Conference (non peer-reviewed)
 
+- <u>Shuichiro Shimizu</u>, Chenhui Chu.
+  **大規模言語モデルによる音声対話翻訳 (Speech Dialogue Translation using LLMs)**.
+  In _言語処理学会 第32回年次大会 発表論文集 (Proceedings of the 32th Annual Meeting of the Association for Natural Language Processing)_, 2026.
+    - [PDF (Ja)](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C9-10.pdf)
+
 - <u>Shuichiro Shimizu</u>, Yin Jou Huang, Yugo Murawaki, and Chenhui Chu.
   **対話の齟齬と介入による解消：LLMを用いた検討 (Discrepancies in Dialogue and
 Resolution through Intervention: An Examination using LLM)**.
