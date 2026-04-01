@@ -4,8 +4,9 @@ layout: ../../layouts/EnBaseLayout.astro
 
 # Educaiton
 
-- Ph.D. student, Informatics (Intelligence Science and Technology), Kyoto University (Apr. 2023 - Present)
+- Ph.D. student, Informatics (Intelligence Science and Technology), Kyoto University (Apr. 2023 - Mar. 2026)
     - Advisor: Associate professor [Chenhui Chu](https://scholar.google.com/citations?user=6ef0qbgAAAAJ)
+    - Withdrawn after completion of research supervision
 
 - Visiting scholar, Computer Science (Language Technologies Institute), Carnegie Mellon University (Apr. 2024 - Dec. 2024)
     - Advisor: Associate professor [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe)

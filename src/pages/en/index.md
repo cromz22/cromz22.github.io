@@ -4,34 +4,27 @@ layout: ../../layouts/EnBaseLayout.astro
 
 # Shuichiro Shimizu
 
-I am a Ph.D. student at [Language Media lab](http://nlp.ist.i.kyoto-u.ac.jp/), Kyoto University, Japan.
-I received B.E. and M.S. from Kyoto University in 2021 and 2023, respectively.
-I was a visiting scholar at [WAV lab](https://wavlab.org/), Carnegie Mellon University, USA in 2024.
+I am a Researcher at [Takamichi lab](https://takamichi-lab.github.io/), [Keio University](https://www.keio.ac.jp/ja/), Japan.
 
-I'm interested in cross-language communication technologies, with a focus on ambiguity that resides in communication through language.
-My research encompasses speech translation, dialogue systems, multimodal machine translation / speech recognition.
+I'm conducting research on spoken language processing.
 
 Should you wish to contact me, please use the email address listed on the CV.
 
 ## News
 
+- I've started my position as a researcher at Takamichi lab, Keio University (Apr. 2026).
+
 - A paper was accepted to LREC 2026 (Palma, Mallorca, Spain, May 2026).
 
-- I'm presenting at NLP 2026 (Utsunomiya, Japan, March 2026).
+- I've presented a research at NLP 2026 (Utsunomiya, Japan, Mar. 2026).
 
 - I did an internship at [SB Intuitions](https://www.sbintuitions.co.jp/en/) (Dec. 2025 - Feb. 2026).
 
 - I've hosted the [IJCNLP-AACL 2025 Student Research Workshop](https://aacl2025-srw.github.io/) as a student chair (Mumbai, India, Dec. 2025).
 
-- Two papers were accepted to Interspeech 2025 (Rotterdam, Netherlands, Aug. 2025).
-
-- A paper was accepted to ACL 2025 Findings (Vienna, Austria, Jul. - Aug. 2025).
-
-- A paper was accepted to NAACL 2025 system demonstrations (Albuquerque, NM, USA, Apr. - May. 2025).
-
 ## Links
 
-- [CV](/assets/CV_Shimizu_20251226.pdf)
+- [CV](/assets/CV_Shimizu_20260401.pdf)
 - [GitHub](https://github.com/cromz22)
 - [Google Scholar](https://scholar.google.com/citations?user=_YhqXyUAAAAJ)
 - [Hugging Face](https://huggingface.co/cromz22)
