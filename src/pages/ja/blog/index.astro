@@ -9,8 +9,7 @@ const entries = await getCollection("blog", ({ data }) => {
 entries.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 
 const toBlogUrl = (entry: typeof entries[number]) => {
-  // entry.slug looks like: "ja/my-first-post"
-  const slugWithoutLocale = entry.slug.replace(/^ja\//, "");
+  const slugWithoutLocale = entry.id.replace(/^ja\//, "");
   return `/ja/blog/${slugWithoutLocale}`;
 };
 ---
