@@ -12,15 +12,15 @@ layout: ../../layouts/JaBaseLayout.astro
 
 ## News
 
+- [ASJ 2026](https://acoustics.jp/annualmeeting/program/) (金沢, 2026年9月) で2件の発表を行います。
+
+- [YANS 2026](https://yans.anlp.jp/entry/yans2026) (仙台, 2026年8月) で2件の発表を行います。
+
 - 慶應義塾大学高道研究室の研究員に着任しました（2026年4月）。
 
 - LREC 2026 (スペイン・パルマ, 2026年5月) に論文が採択されました。
 
 - NLP 2026 (宇都宮, 2026年3月) で研究発表をしました。
-
-- [SB Intuitions](https://www.sbintuitions.co.jp/) でインターンをしました。 (2025年12月 - 2026年2月)
-
-- IJCNLP-AACL 2025 (インド・ムンバイ, 2025年12月) で student chair として [student research workshop](https://aacl2025-srw.github.io/) を主催しました。
 
 ## リンク集
 
